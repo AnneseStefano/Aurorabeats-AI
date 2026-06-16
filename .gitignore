@@ -1,0 +1,19 @@
+# Sensitive configuration
+wp-config.php
+
+# Uploads (media files, user content)
+wp-content/uploads/
+
+# Backup files
+wp-content/ai1wm-backups/
+
+# Temporary upgrade files
+wp-content/upgrade/
+wp-content/upgrade-temp-backup/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
